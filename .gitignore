@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Données et journaux générés par le pipeline (recréés à chaque exécution)
+data/
+data_ancien/
+logs/
+
+.vscode/
+.ipynb_checkpoints/
